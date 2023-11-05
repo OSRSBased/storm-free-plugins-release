@@ -8,7 +8,7 @@
     "date": "2023-11-05",
     "sha512sum": "5F7981C7425FE9E27ED27B9BDA9ED3D8AAFE3058A3144E8D61CCE1C99C23A97A20EBFB6A66656E324FF5AF7488F9E1476967A9238491A2BF44C54313EE04B49C",
     "version": "1.1.2",
-    "url": "https://raw.githubusercontent.com/OSRSBased/storm-release/master/allure_loader-1.1.2.jar",
+    "url": "https://raw.githubusercontent.com/OSRSBased/storm-free-plugins-release/master/allure_loader-1.1.2.jar",
     "requires": "^1.0.0"
   }]
 }]
