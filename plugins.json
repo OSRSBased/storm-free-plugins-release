@@ -5,8 +5,8 @@
   "description": "",
   "id": "allureloader-plugin",
   "releases": [{
-    "date": "2023-11-21",
-    "sha512sum": "3E0D38AD5152AD9EEC17110B577631441B1755B19B32259644AD8B99E9A085AB4854C50DDCBCC83A8B32FF112EFB18C8C40630EB1C72D68B28B39D0888B9B91B",
+    "date": "2024-04-09",
+    "sha512sum": "CE56E6C62D31C971F2666230AD97A12E0D971CD5CDE5064B75D92A289057B1B5D8FF33E29256D8A38A49E4F6DB5D989AC61DB4C5D00F6F9830D015A1209213E8",
     "version": "1.2.0",
     "url": "https://raw.githubusercontent.com/OSRSBased/storm-free-plugins-release/master/allure_loader-1.2.0.jar",
     "requires": "^1.0.0"
